@@ -1,4 +1,4 @@
-from summarizer import Summarizer
+from .summarizer import Summarizer
 
 
 def getInput():
